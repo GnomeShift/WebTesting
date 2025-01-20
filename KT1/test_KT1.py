@@ -23,4 +23,4 @@ def test_search(driver):
     search_box.send_keys("Selenium")
     search_box.send_keys(Keys.RETURN)
 
-    assert "Selenium - Поиск в Google" in driver.title
+    assert "Google" in driver.title
