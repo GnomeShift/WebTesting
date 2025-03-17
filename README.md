@@ -15,6 +15,7 @@
 * [KT1](KT1/KT1.ipynb)
 * [KT2](KT2/KT2.ipynb)
 * [KT3](KT3/KT3.ipynb)
+* [KT4](KT4/KT4.ipynb), [отчет](KT4/kt4-allure-report/index.html)
 
 # ⚙️Конфигурация
 Просто открой этот проект в своей IDE.
