@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "platformVersion": "14",
+  "deviceName": "Pixel_3a_API_34_extension_level_7_x86_64",
+  "appPackage": "com.google.android.calculator",
+  "appActivity": "com.android.calculator2.Calculator",
+  "automationName": "uiautomator2",
+  "newCommandTimeout": 50
+}
