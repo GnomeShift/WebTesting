@@ -18,6 +18,7 @@
 * [KT4](KT4/KT4.ipynb), [отчет](KT4/kt4-allure-report/index.html)
 * [KT5](KT5/KT5.ipynb)
 * [KT6](KT6/KT6.ipynb)
+* [KT7](KT7/KT7.ipynb), [скрины](KT7/screens)
 
 # ⬇️Установка и запуск
 #### 1️⃣ Клонируйте репозиторий:
@@ -27,7 +28,7 @@ git clone https://github.com/GnomeShift/WebTesting.git
 
 #### 2️⃣ Запустите тесты
 > [!NOTE]
-> Убедитесь, что у Вас установлены пакеты `pytest`, `selenium`, `appium-python-client` `notebook` (опционально)
+> Убедитесь, что у Вас установлены пакеты `pytest`, `selenium`, `appium-python-client`, `notebook` (опционально)
 
 Через Jupyter notebook:
 ```bash
