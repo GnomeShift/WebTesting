@@ -1,0 +1,16 @@
+{
+    "browserName": "firefox",
+    "browserVersion": "125.0",
+    "moz:firefoxOptions": {
+        "prefs": {
+            "browser.tabs.remote.autostart": false,
+            "browser.tabs.remote.force-enable": true,
+            "browser.tabs.remote.connected": false,
+            "browser.tabs.remote.separateFileUriProcess": false
+        }
+    },
+    "selenoid:options": {
+        "enableVNC": true,
+        "enableVideo": true
+    }
+}
