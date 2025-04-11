@@ -1,0 +1,9 @@
+{
+    "platformName": "Android",
+    "platformVersion": "14",
+    "deviceName": "Pixel_3a_API_34_extension_level_7_x86_64",
+    "appPackage": "com.google.android.youtube",
+    "appActivity": "com.google.android.youtube/.app.honeycomb.Shell$HomeActivity",
+    "automationName": "uiautomator2",
+    "newCommandTimeout": 50
+}
