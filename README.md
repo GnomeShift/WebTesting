@@ -19,6 +19,7 @@
 * [KT5](KT5/KT5.ipynb)
 * [KT6](KT6/KT6.ipynb)
 * [KT7](KT7/KT7.ipynb), [скрины](KT7/screens)
+* [KT8](KT8/KT8.ipynb)
 
 # ⬇️Установка и запуск
 #### 1️⃣ Клонируйте репозиторий:
