@@ -22,6 +22,7 @@
 * [KT8](KT8/KT8.ipynb)
 * [KT9](KT9/KT9.ipynb)
 * [KT10](KT10/KT10.ipynb)
+* [KT12](KT12/KT12.ipynb)
 
 # ⬇️Установка и запуск
 #### 1️⃣ Клонируйте репозиторий:
@@ -31,14 +32,14 @@ git clone https://github.com/GnomeShift/WebTesting.git
 
 #### 2️⃣ Запустите тесты
 > [!NOTE]
-> Убедитесь, что у Вас установлены пакеты `pytest`, `selenium`, `appium-python-client`, `notebook` (опционально)
+> Убедитесь, что у Вас установлены пакеты `pytest`, `selenium`, `appium-python-client`, `grpcio-tools`, `notebook`
 
-Через Jupyter notebook:
+**📒 Jupyter notebook:**
 ```bash
 jupyter notebook <название>.ipynb
 ```
 
-Через Pytest:
+**🐍 Pytest:**
 ```bash
 pytest <название>.py
 ```
